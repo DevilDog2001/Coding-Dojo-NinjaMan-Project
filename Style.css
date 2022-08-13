@@ -1,0 +1,13 @@
+body {
+	background: lightgray;
+}
+h1  {
+	color: black;
+}
+p {
+	background: gray;
+	padding: 8px;
+}
+a {
+	color: red;
+}
